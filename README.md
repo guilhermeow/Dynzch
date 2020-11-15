@@ -9,6 +9,8 @@
 ![img2](/images/2.png)
 
 ![img3](/images/3.png)
+ 
+ **Nessa imagem da para ver que eu escolhi para o X ser marcado na 2 linha da primeira coluna!**
 
 
 ## Informações
