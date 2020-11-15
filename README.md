@@ -20,5 +20,4 @@
 > O jogador "O" é o jogador 2 !
 
 **Você pode escolher em qual coluna marcar e qual a linha!**
-
 **Caso você tente escolher uma casa que já tiver marcada, não irá funcionar!**
