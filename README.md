@@ -1,2 +1,4 @@
-# JogoDaVelha
-Projeto simples feito em C para tentativa de desenvolver um "jogo" !
+# Jogo da Velha
+
+> Como o jogo se comporta quando é iniciado!
+![image](http://prnt.sc/vjbxgb)
