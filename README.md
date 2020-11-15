@@ -2,11 +2,11 @@
 
 > Como o jogo se comporta quando é iniciado!
 
-![image](http://prnt.sc/vjbxgb)
+![image](/images/1.png)
 
 > O primeiro movimento [EXEMPLOS]:
-![img2](https://prnt.sc/vjbyd4)
-![img3](http://prnt.sc/vjbykp)
+![img2](/images/2.png)
+![img3](/images/3.png)
 
 
 ## Informações
