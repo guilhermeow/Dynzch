@@ -5,7 +5,9 @@
 ![image](/images/1.png)
 
 > O primeiro movimento [EXEMPLOS]:
+
 ![img2](/images/2.png)
+
 ![img3](/images/3.png)
 
 
