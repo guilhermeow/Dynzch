@@ -8,7 +8,7 @@ void tabuleiro(char casas2[3][3])
     printf("\t-----------\n");
     printf("\t %c | %c | %c \n", casas2[1][0], casas2[1][1], casas2[1][2]);
     printf("\t-----------\n");
-    printf("\t %c | %c | %c \n", casas2[2][0], casas2[2][1], casas2[2][2]);
+    printf("\t %c | %c | %c \n\n\n", casas2[2][0], casas2[2][1], casas2[2][2]);
 }
 int main()
 {
