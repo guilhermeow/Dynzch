@@ -14,6 +14,7 @@
 
 ## Informações
 > O jogador "X" é o jogador 1
+
 > O jogador "O" é o jogador 2
 
 **Você pode escolher em qual coluna marcar e qual a linha!**
